@@ -22,7 +22,7 @@ defineProps<{ current: number; sections: number }>();
   </Transition>
 </template>
 
-<style>
+<style scoped>
 nav {
   position: fixed;
   top: 50%;

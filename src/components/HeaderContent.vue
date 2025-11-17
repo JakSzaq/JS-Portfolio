@@ -12,12 +12,12 @@ import ScrollText from "./ScrollText.vue";
   </section>
 </template>
 
-<style>
+<style scoped>
 .content {
   position: absolute;
   top: 0;
   width: 100%;
-  height: 100vh;
+  height: 98vh;
   display: flex;
   justify-content: space-between;
   align-items: center;

@@ -8,13 +8,12 @@
   </section>
 </template>
 
-<style>
+<style scoped>
 .background {
   width: 100%;
   height: 100vh;
   background: linear-gradient(to bottom, #000000, #1b1b1b);
   position: relative;
-  overflow: hidden;
 }
 
 .purple-light-source {
@@ -50,7 +49,7 @@
   top: 0;
   width: 100vw;
   height: 100vw;
-  background: black;
+  background: linear-gradient(to bottom, #000000 50%, #1b1b1b);
   opacity: 70%;
 }
 

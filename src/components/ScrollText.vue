@@ -7,7 +7,7 @@
   </section>
 </template>
 
-<style>
+<style scoped>
 .scrollText {
   font-family: Comfortaa, sans-serif;
   font-weight: bold;
@@ -18,6 +18,10 @@
   align-items: center;
   flex-direction: row;
   gap: 1em;
+}
+
+.scrollText h5 {
+  margin: 0;
 }
 
 .scrollText i {

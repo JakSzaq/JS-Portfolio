@@ -29,7 +29,7 @@ import logo from "../assets/logo.svg";
   </section>
 </template>
 
-<style>
+<style scoped>
 .left {
   height: 100px;
   position: relative;

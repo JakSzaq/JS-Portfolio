@@ -20,7 +20,7 @@ const changeLanguage = (newLang: boolean) => {
   </div>
 </template>
 
-<style>
+<style scoped>
 .lang-menu {
   display: flex;
   justify-content: space-between;
