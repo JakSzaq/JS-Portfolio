@@ -1,0 +1,9 @@
+<svg width="95" height="157" viewBox="0 0 95 157" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="mobile-icon" d="M3.51562 135.703C3.51562 145.023 11.0708 152.578 20.3906 152.578H73.4766C83.1847 152.578 91.0547 144.708 91.0547 135V21.0937C91.0547 11.3856 83.1847 3.51562 73.4766 3.51562H21.0938C11.3856 3.51562 3.51562 11.3856 3.51562 21.0937V105.82C3.51562 115.528 11.3856 123.398 21.0938 123.398H41.6602H79.8047M34.1016 138.516H57.3047M47.4609 15.4688H47.8125" stroke="url(#paint0_radial_15_108)" stroke-width="7.03125" stroke-linecap="round"/>
+<defs>
+<radialGradient id="paint0_radial_15_108" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(29.5313 42.1875) rotate(61.9994) scale(131.795 140.118)">
+<stop stop-color="#B386F0"/>
+<stop offset="1" stop-color="#0B84FF"/>
+</radialGradient>
+</defs>
+</svg>
